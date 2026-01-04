@@ -24,20 +24,12 @@ class KedarSathe:
         self.username = "wtfkedar"
         self.role = "Machine Learning Engineer"
         self.location = "Pune, India"
-        self.education = "VIT Pune"
-        self.current_focus = ["AI Development", "MLOps", "DevOps"]
-        self.interests = ["Quantum ML", "Side Projects", "Writing"]
+        self.focus = ["AI/ML", "DevOps", "MLOps"]
         
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something cool together.")
-
 me = KedarSathe()
-me.say_hi()
 ```
 
-I'm a Machine Learning Engineer who loves turning ideas into reality through code. Currently freelancing in DevOps and AI/ML engineering, I specialize in building intelligent systems with TensorFlow and PyTorch. When I'm not training models or optimizing pipelines, you'll find me documenting my journey through [side projects](https://wtfkedar.vercel.app/projects), [writings](https://neuronreads.vercel.app/), and AI experiments.
-
-Always open to the next opportunity—whether it's a full-time role or an exciting internship. Let's connect!
+ML Engineer specializing in AI development with TensorFlow and PyTorch. Currently freelancing in DevOps and AI/ML. Check out my [projects](https://wtfkedar.vercel.app/projects) and [writings](https://neuronreads.vercel.app/).
 
 ---
 
@@ -50,21 +42,21 @@ Always open to the next opportunity—whether it's a full-time role or an exciti
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
 
 ---
 
+### 🏆 GitHub Trophies
 
-### 📝 Latest Blog Posts
+<div align="center">
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=kedar49&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
 
-<!-- BLOG-POST-LIST:START -->
-Visit [NeuronReads](https://neuronreads.vercel.app/) for my latest writings on AI, ML, and tech explorations.
-<!-- BLOG-POST-LIST:END -->
+</div>
 
 ---
 
@@ -82,39 +74,7 @@ Visit [NeuronReads](https://neuronreads.vercel.app/) for my latest writings on A
 
 ---
 
-### 💭 Random Dev Quote
-
 <div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=kedar49&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
-### 📈 Activity Graph
-
-<div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kedar49&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-  
-  ### 💡 *"Building AI, one commit at a time"*
   
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
   
